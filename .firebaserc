@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "flutterfire-ui-codelab"
-  }
+    "default": "flutterfire-ui-codelab-e4cbb",
+    "flutterfire-ui-codelab": "flutterfire-ui-codelab-e4cbb"
+  },
+  "targets": {},
+  "etags": {}
 }
